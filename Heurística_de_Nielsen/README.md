@@ -68,7 +68,9 @@ As Inteligências Artificiais estão em alta ultimamente, por isso eu escolhi an
 No site, há uma opção onde você pode gerar as imagens e editá-las num arquivo do tipo Canvas, mas observe os seguintes pontos dessa tela:
 
 1 - Não há nenhuma indicação de que você está numa tela desse tipo na primeira vez que você a usa. Isso vai contra a primeira Heurística, sobre a visibilidade do estado do sistema. 
+
 2 - Há um tutorial de como você pode usar as funcionalidades dessa tela, mas não um botão que permita você pular esse tutorial. Além disso, algumas funções são desbloqueadas somente depois de você concluir o tutorial. Mesmo que seja apenas na primeira vez que você usa o Canvas, caso um usuário tenha criado uma conta nova, ele ainda será obrigado a refazer o tutorial. Isso vai contra a terceira Heurística, sobre o controle e liberdade do usuário dentro do sistema. 
+
 3 - Existe um Logo na parte superior esquerda, e ao clicar nele você expande o menu, que mostra todas as opções disponíveis dentro do sistema. Para ir para a tela 'Home', é preciso selecionar a opção 'Community Feed'. Caso você esteja no 'Board', onde pode criar as imagens de uma forma ligeiramente diferente do Canvas, existe uma opção no canto superior direito que te leva à tela 'Home' ('Community Feed'). Isso quer dizer que caso você esteja em uma tela, você pode acessar a tela inicial do sistema por um lugar diferente de onde poderia por outra tela, quebrando os padrões do sistema, e tornando o acesso ao feed de imagens da comunidade mais complexo em um dos casos. Isso vai contra a quarta Heurística, sobre consistência e padrões dentro do sistema. 
 
 Primeiro Acesso à tela do tipo Canvas: 
@@ -80,7 +82,9 @@ Próximos Acessos à tela do tipo Canvas:
 Mas não tem apenas problemas com as Heurísticas no site. Ainda na tela do Canvas, na parte superior central, há algumas opções do que você pode fazer com uma imagem: 
 
 1 – Quando você passa o mouse por algumas dessas funcionalidades, aparece uma dica do que ela é, e em alguns casos em que essa funcionalidade é mais complexa, aparece um vídeo explicativo. Isso é contemplado pela primeira Heurística, que fala sobre a visibilidade do estado do sistema. 
+
 2 – Os ícones utilizados nessas opções também foram descritos em uma Heurística, a segunda, que é sobre a correspondência com o mundo real, já que esses ícones são autoexplicativos e são convenções do contexto das edições de imagens. 
+
 3 – Uma outra coisa que aparece quando você passa o mouse por cima de algumas dessas opções é uma tecla de atalho para aquela funcionalidade, fazendo com que um usuário experiente no sistema possa agilizar seu trabalho sem atrapalhar a utilização de usuários mais novos, de acordo com a sétima Heurística, sobre a flexibilidade e eficiência de uso do sistema. 
 
 Opções de Funcionalidades na tela do tipo Canvas: 
