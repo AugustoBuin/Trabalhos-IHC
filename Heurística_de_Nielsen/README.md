@@ -72,10 +72,10 @@ No site, há uma opção onde você pode gerar as imagens e editá-las num arqui
 3 - Existe um Logo na parte superior esquerda, e ao clicar nele você expande o menu, que mostra todas as opções disponíveis dentro do sistema. Para ir para a tela 'Home', é preciso selecionar a opção 'Community Feed'. Caso você esteja no 'Board', onde pode criar as imagens de uma forma ligeiramente diferente do Canvas, existe uma opção no canto superior direito que te leva à tela 'Home' ('Community Feed'). Isso quer dizer que caso você esteja em uma tela, você pode acessar a tela inicial do sistema por um lugar diferente de onde poderia por outra tela, quebrando os padrões do sistema, e tornando o acesso ao feed de imagens da comunidade mais complexo em um dos casos. Isso vai contra a quarta Heurística, sobre consistência e padrões dentro do sistema. 
 
 Primeiro Acesso à tela do tipo Canvas: 
-<img src="imagens/" src="Primeiro Acesso">
+<img src="imagens/primeiroAcesso.png" src="Primeiro Acesso">
 
 Próximos Acessos à tela do tipo Canvas: 
-<img src="imagens/" src="Próximos Acessos">
+<img src="imagens/outrosAcessos.png" src="Próximos Acessos">
 
 Mas não tem apenas problemas com as Heurísticas no site. Ainda na tela do Canvas, na parte superior central, há algumas opções do que você pode fazer com uma imagem: 
 
@@ -84,4 +84,4 @@ Mas não tem apenas problemas com as Heurísticas no site. Ainda na tela do Canv
 3 – Uma outra coisa que aparece quando você passa o mouse por cima de algumas dessas opções é uma tecla de atalho para aquela funcionalidade, fazendo com que um usuário experiente no sistema possa agilizar seu trabalho sem atrapalhar a utilização de usuários mais novos, de acordo com a sétima Heurística, sobre a flexibilidade e eficiência de uso do sistema. 
 
 Opções de Funcionalidades na tela do tipo Canvas: 
-<img src="imagens/" src="Funcionalidades">
+<img src="imagens/funcionalidades.png" src="Funcionalidades">
